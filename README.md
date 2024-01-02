@@ -1,0 +1,2 @@
+# pamiw
+projekt
