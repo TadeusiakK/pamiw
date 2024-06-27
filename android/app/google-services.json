@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299591930143",
+    "project_id": "pamiw-projekt-529bb",
+    "storage_bucket": "pamiw-projekt-529bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299591930143:android:bae1b3bcde19fb26da602a",
+        "android_client_info": {
+          "package_name": "com.example.pamiw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZHcg0fSefRaPkCkAKH2kWFOCrW5f8ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
